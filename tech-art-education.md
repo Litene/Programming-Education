@@ -22,9 +22,9 @@ all of these are meant to be completed without tutorials or chatGPT, you are onl
 
 Learning programming for most is a lot of trying a failing, the more you fuck around the more you learn.
 
-[Practice tasks part 1](https://github.com/Litene/Note/blob/main/Note/programming-education/O_vningsuppgifter%2C%20del%201.pdf)
+[Practice tasks part 1](https://github.com/Litene/Programming-Education/blob/main/O_vningsuppgifter%2C%20del%201.pdf)
 
-[Practice tasks part 2](https://github.com/Litene/Note/blob/main/Note/programming-education/O_vningsuppgifter%2C%20del%202.pdf)
+[Practice tasks part 2](https://github.com/Litene/Programming-Education/blob/main/O_vningsuppgifter%2C%20del%202.pdf)
 
 The final part of the programming part is to do a game jam with friends as a programmer!
 
@@ -65,7 +65,7 @@ The last one being a little bigger where you are encourages to experiment.
 
 The education is a good mix of different sources and my own opinions, for the first section W3Schools
 
-Where you will do all the basics as listed here: [W3Schools Tutorial](https://github.com/Litene/Note/blob/main/Note/programming-education/W3.png)
+Where you will do all the basics as listed here: [W3Schools Tutorial](https://github.com/Litene/Programming-Education/blob/main/W3.png)
 
 
 
