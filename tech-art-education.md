@@ -22,6 +22,9 @@ all of these are meant to be completed without tutorials or chatGPT, you are onl
 
 Learning programming for most is a lot of trying a failing, the more you fuck around the more you learn.
 
+Most of the things are meant to be done within the IDE (Rider for example) unless otherwise explain, meaning if there is an outside
+source of knowledge, redo everything within your editor, practice and being getting conftable is important. 
+
 [Practice tasks part 1](https://github.com/Litene/Programming-Education/blob/main/O_vningsuppgifter%2C%20del%201.pdf)
 
 [Practice tasks part 2](https://github.com/Litene/Programming-Education/blob/main/O_vningsuppgifter%2C%20del%202.pdf)
@@ -56,6 +59,8 @@ Go through the installation normally and click in add file associations,
 #### Setting it up perfectly for you
 I'll give a few tips which I feel is useful and makes it easier to code. 
 
+### TIPS INCOMING
+
 #### 
 
 ### Part 1 The Basic Basics
@@ -67,13 +72,9 @@ The education is a good mix of different sources and my own opinions, for the fi
 
 Where you will do all the basics as listed here: [W3Schools Tutorial](https://github.com/Litene/Programming-Education/blob/main/W3.png)
 
+[W3Schools Link](https://www.w3schools.com/cs/index.php)
 
-
-```csharp
-static void ___(string[] args) {
-  ___.___("Hello World!");    
-}
-```
+After you made it through the basics of W3School, do Assignment 1,2,4,7,9 in tasks part 1.
 
 ### Part 2 
 
