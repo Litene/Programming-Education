@@ -121,9 +121,13 @@ There a complete game has to account for user error and also being able to play 
 * Add the option to play either vs a computer or another playing (where they take turns to give input)
 * No Incorrect Input
 
+#### Part 4
 
+Nim is a beat game, there is a tactic so you can't loose therefore you should make it so that the computer can't loose.
 
-After you made it through the basics of W3School, do Assignment 1,2,4,7,9 in tasks part 1.
+#### Other
+
+After you made it through the basics of W3School and Excercise, do Assignment 1,2,4,7,9 in tasks part 1.
 
 ### Part 2 
 
