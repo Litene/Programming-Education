@@ -74,6 +74,55 @@ Where you will do all the basics as listed here: [W3Schools Tutorial](https://gi
 
 [W3Schools Link](https://www.w3schools.com/cs/index.php)
 
+### Exercise 1 Nim
+
+The goal is to create the game NIM that plays against a computer
+
+Rules for the game can be found at [Wikipedia](https://sv.wikipedia.org/wiki/Nim)
+
+The computer should pick a random amount of sticks between 1 and how many the rules allow.
+The `Random` class allows to get random int between a predetermined range.
+
+Access it by making an instance of the class through
+
+Random YourName = new Random();
+
+int YourRandomNumber = YourName.Next(MinValue, MaxValue);
+
+Where you give the lowest value and the maximum value.
+
+The Game Loop is a common thing, the easiest way to achieve it is through a while loop with a bool ``bool Game Over = false``
+for example. And if someone wins/looses is set to true.
+
+There are countless solutions/ways to program this. 
+
+#### Part 1
+
+* The game should end when either the computer or player wins.
+
+#### Part 2
+
+A big part of programming is refactoring, it essentially means redoing/reworking how the code looks.
+
+This helps a lot with code readability, and modularity when done right. 
+
+The assignment is therefore to refactor based the criteria below, these are difficult to please seek advice guidence if needed.
+
+* Main Should only have one method call ergo ``MyGame.StartGame()`` Rest of the game should be in a different class.
+* Every functionality should have its own method ``CheckIfGameOver()`` For Example
+
+#### Part 3
+
+This is the cleanup part where its time to wrap it up and add some security.
+
+There a complete game has to account for user error and also being able to play again therefore the requirements are:
+
+* Give the player the option to restart the game when its game over
+* Add the option to play either vs a computer or another playing (where they take turns to give input)
+* No Incorrect Input
+
+
+
 After you made it through the basics of W3School, do Assignment 1,2,4,7,9 in tasks part 1.
 
 ### Part 2 
